@@ -1,1 +1,1 @@
-# dataset-eda
+# Django and SQL practice.
