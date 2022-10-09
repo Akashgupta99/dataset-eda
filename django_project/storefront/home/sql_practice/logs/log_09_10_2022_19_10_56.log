@@ -1,0 +1,3 @@
+[sql_learning.py:31 -  connect_with_server() ] Connection established successfully.
+[sql_learning.py:54 -        execute_query() ] 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NUL
+            )' at line 4
